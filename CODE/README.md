@@ -1,1 +1,1 @@
-Solidity code of the TRC20 toekn 451PCBCOM (PCB)
+Solidity code of the TRC20 token 451PCBCOM (PCB).
