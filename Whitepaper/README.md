@@ -1,4 +1,4 @@
-TRC20 token 451PCBCOM (PCB) White Papers:
+TRC20 token 451PCBCOM (PCB) White Paper updates:
 
 v1.2.- Add index and roadmap.
 
