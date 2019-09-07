@@ -4,4 +4,4 @@ v1.2.- Add index and roadmap.
 
 v1.1.- More token info added.
 
-v1.- First version.
+v1.0.- First version.
