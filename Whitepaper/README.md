@@ -1,4 +1,4 @@
-TRC20 token 451PCBCOM (PCB) White Paper updates:
+451PCBCOM (PCB) TRC-20 token White Paper updates:
 
 v1.2.- Add index and roadmap.
 
