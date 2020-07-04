@@ -1,1 +1,1 @@
-Smart contract to vote about to take decisions.
+Smart contract and other codes to vote in our direct-democraticy selfgovernance system.
