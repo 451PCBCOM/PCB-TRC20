@@ -73,7 +73,8 @@ Continuaremos premiando a nuestra comunidad de apoyo con tokens PCB, pero nunca 
     • Liberar el whitepaper v2.1 en Inglés y Español.
     • Liberaremos el código open source del hardware “451PCB Protoshield board v2.1”.
     • Continuaremos la distribución de más tokens PCB y de placas físicas a los miembros de la comunidad que poseen tokens PCB uniéndose a nosotros.
-      2022
+    
+2022
     • Tratar de aplicar todas las propuestas de la comunidad:
         ◦ Incrementar los premios de tokens PCB a la comunidad.
         ◦ Desarroyo de proyectos y actualizaciones.
