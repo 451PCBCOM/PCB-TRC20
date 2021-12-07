@@ -59,6 +59,7 @@ Continuaremos premiando a nuestra comunidad de apoyo con tokens PCB, pero nunca 
     • Liberados los archivos fuente del circuito impreso “451PCB Protoshield board v2”.
     • Liberada la versión v1.3 del Whitepaper en Inglés y actualizada la página web.
     • Distribuidos algunos tokens PCB y circuitos físicos de hardware con código abierto entre la comunidad de apoyo y poseedores de tokens PCB.
+    
 2020
     • Liberada la actualización de la página web y la actualización del contrato inteligente del token 451PCBcom (PCB).
     • Liberado el whitepaper v2 en inglés.
