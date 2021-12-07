@@ -1,1 +1,1 @@
-Smart contract for make a TRC20 token faucet.
+Smart contract to make a TRC20 token faucet.
