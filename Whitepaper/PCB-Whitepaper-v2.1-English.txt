@@ -1,0 +1,155 @@
+451PCBcom (PCB) TRC-20 token whitepaper v2.1
+
+
+
+INDEX:
+	1.- Intro . . . . . . . . . . . .3
+	2.- Utility . . . . . . . . . . .4
+	3.- Roadmap . . . . . . . . . . .5 
+	4.- PCB Token . . . . . . . . . .7
+	5.- The tokenized hardware . . . 9
+	6.- About us. . . . . . . . . . .10
+
+
+
+1.- Intro
+
+451PCBcom (PCB) is a TRC-20 token created on the TRON blockchain by our non-profit association to promote, develop, make, reward, share and exchange open source hardware.
+
+The PCB token is not an easy speculative token, it has a lot of utility functions in the real world for the members of our open source hardware community of supporters.
+
+TRC-20 is the basic code standard for a token in the TRON blockchain to implement some minimal token functions using a smart contract. So PCB token is a coupon, similar to a privately issued digital currency, which is the unit of value that the association creates to self-govern, and empower open source hardware users to interact with us, facilitating the open source hardware exchange, share and distribution, with rewards, utility and benefits to all the token holders.
+
+The PCB token is distributed to our association members to use it as a tool to exchange open source hardware, rank and reward the community who support open source hardware and promote it in collaboration with us. It is utilized to obtain some external services necessary for the project development too.
+
+When you hold PCB tokens, you are a member of our community of supporters, so you are collaborating to develop and make open source hardware, empowering our community to do it. Your support reputation rank depends on how many PCB tokens you hold.
+
+When we send rewards to our community it is based on their PCB holder rank, knowledge and collaboration to make and promote open source hardware, and never by lucky or competitive games.
+
+We don’t know any other project of a tokenized open source hardware design at this moment. We will be happy to know about other open source hardware makers with blockchain projects.
+
+We are ready to develop our project entirely by ourselves as an open source hardware and blockchain company too, but we are in partnership with some companies which do the hard work with the hardware and other services for us. The future and our community is open. Join us.
+
+2.- Utility
+
+The PCB token is distributed to reward our community with tokens which can be held to win community reputation and it will be utilized to participate in our community of open source hardware supporters within the TRON decentralized blockchain ecosystem with the PCB token utility for file and code sharing, message boards, forums, chats, holder ranking, to make proposals and to vote about decisions, to swap it for cryptocurrencies with other members, to win open source hardware rewards and many things more. It is utilized to obtain some external services necessary for the project development too.
+
+The PCB token can be exchanged for physical open source hardware and it can be utilized to secure the exchange of hardware, including between our community members of PCB token holders, who can design, make, exchange and distribute open source hardware.
+
+This PCB token of open source code will close the process of open source hardware designed with open source code using this open source token to make, control and distribute the physical hardware maked by our community of open source hardware supporters.
+
+The circulating supply of PCB tokens rewarded to the community is related with the amount of all physical Printed Circuit Boards in stock and ready for direct distribution to our community members. Please check the 4th section “PCB token” for more info. 
+
+One PCB token will be exchanged by 451pcb.com for the reward of one physical open source hardware Printed Circuit Board “451PCB Protoshield Board v2.1 for Arduino UNO” (shipping cost included). This process is manual and by mail now. An easy proof of PCB token ownership must be given to start to claim the rewards, which will be sent after to fill a google form or in other platform of your choice, and after one reward is received, one PCB token must be sent to us or must be burned by the user to continue claiming for more rewards.
+
+In the near future, the PCB token could be exchanged for other open source hardware designs with more value and more components when it will be voted, designed, maked, announced in a whitepaper and ready to be distributed. The reward for a PCB token only can increase and never decrease.
+
+With this PCB token our community of supporters will set the value of the open source hardware distributed by 451PCB or swapped between our community members who can utilize the PCB token to exchange open source hardware, TRX and other TRON tokens, including the option to utilize the smart contract as a deposit escrow account secured by 451PCB for the open source hardware swap, exchange or distribution, when it will be necessary.
+
+3.- Roadmap
+
+We will continue rewarding our community of supporters with free PCB tokens, but never with more than our stock of physical hardware boards which is the amount of the PCB token circulating supply.
+2018
+    • First version of the whitepaper approved.
+    • PCB Token creation and the start to test it.
+
+2019
+    • Whitepaper v1.0 and v1.1 released.
+    • Whitepaper v1.2 released in English and Spanish.
+    • “451PCB Protoshield board v2” open source hardware released.
+    • Whitepaper v1.3 released in English and web page updates.
+    • PCB tokens and some physical boards of open source hardware distributed to our community of supporters and PCB token holders.
+2020
+    • Web page and 451PCBcom (PCB) smart contract update released.
+    • Whitepaper v2 released in English.
+    • Release our voting system to self-organize: Posposed due to all serious proposals from the community were accepted.
+    • Release the open source hardware code of the “451PCB Protoshield board v2.1”. Other open source hardware code by the community is wellcome: Posposed till 2021 due our voluntary physical activity reduction in solidarity with the struggle against COVID-19 virus.
+    • We improved our web page, publishing more info about our open source hardware, documents, pictures and use examples for the community and with their collaboration though our accounts on Twitter, Facebook, Telegram and Github.
+    • We distributed more PCB tokens and physical open source hardware boards to our community of supporters and PCB token holders.
+    • Some DeFi projects (Decentralized Finance) were created to give more value to the PCB token and swap PCB tokens on JustSwap (now SunSwap.com v1). Our members support the created DeFi system on JustSwap/SunSwap v1 adding some PCB tokens to secure the minimal funds in the liquidity polls for swaps.
+      
+2021
+    • Whitepaper v2 released in Spanish: Release delayed due to  nobody asked for it in our community.
+    • Whitepaper v2.1 released in English and Spanish.
+    • Release the open source hardware code of the “451PCB Protoshield board v2.1”.
+    • We will continue distributing more PCB tokens and physical open source hardware boards to our support community who hold PCB tokens joining us.
+      
+      2022
+    • Try to apply all serious proposals from the community:
+        ◦ Increase PCB token rewards to the community.
+        ◦ Projects development and updates.
+        ◦ Web page and projects documentation update.
+    • We will continue distributing more PCB tokens and physical open source hardware boards to our support community based on the next rewards:
+        ◦ Telegram, Facebook and Twitter Followers and Community: 
+              - 0 to 0.1 PCB tokens based on the task difficulty.
+        ◦ PCB token promotions, writings, pictures and images: 
+              - 0 to 1 PCB tokens based on quality.
+        ◦ Open Source Hardware and PCB Project Developers: 
+              - 0 to 10 PCB tokens based on the project quality or task difficulty.
+
+4.- PCB Token
+
+The 451PCBcom (PCB) TRC-20 token is being distributed to the community and have been deployed with this TRON smart contract address:
+
+TMBshXBbETM9UPU4XJPueJR1o8PVm5NMDd
+
+The PCB token total supply is mintable to 1 Million tokens with 8 decimals. The circulating supply is related with the amount of physical boards in stock and ready to be distributed directly by us. This stock must be bigger than the necessary amount of boards to exchange at the same time one board to all the token holders with more than one PCB token. It secures a fast and direct stock distribution by ourselves.
+
+All the PCB token smart contract info can be found and checked on tronscan.org:
+
+https://tronscan.org/#/token20/TMBshXBbETM9UPU4XJPueJR1o8PVm5NMDd
+
+The solidity code of the PCB token is open source code too:
+
+https://github.com/451PCBCOM/PCB-TRC20/blob/master/CODE/451PCBcom.sol
+
+The PCB token creator address and the smart contract in the TRON blockchain is under the control of 451PCB.COM which is a NON-Profit association to promote open source hardware, art and technology.
+
+The PCB token will be valid to claim your rewards till one year from the announcement date of the project ends. That announcement will be made with a new and especial whitepaper version.
+
+All the token holder addresses and balances are public on the TRON blockchain network, as the events of transfers and approvals, so the token activity can be checked by the community and we can’t  stop, block, revert or change transfers, balances or approvals.
+
+The use of this PCB TRC-20 token have a 5% of the necessary execution cost of tron energy to be discounted to the user and the other 95% of the energy cost is supported by the PCB token creator to avoid spam and other secure purposes.
+
+A typical PCB token transfer will cost to the user between 500 to 2000 units of energy and around 500 units of bandwidth. This amount of energy and bandwidth will be recovered in a short time, so the smart contract execution will be ever free for the user with some TRX frozen for energy and bandwidth.
+
+When the user and the smart contract haven’t got the necessary energy or bandwidth with his frozen TRX, the contract execution will cause to the user the burnt of a little amount of TRX by the TRON blockchain to cover the cost of energy and bandwidth. It depends of the TRON blockchain network activity and the smart contract energy and execution fees. Donated energy to our smart contract to help to cover the execution costs will be ever welcome and rewarded. 
+
+We will ever try to cover the 95% of the PCB token smart contract execution fee with energy donated to the smart contract address by our members, this energy is limited and may vary, but it is reloaded daily. We recommend to check the smart contract energy to avoid fees before to execute it.
+
+PCB token Transfers between PCB token holders need less energy, so we recommend to hold ever a little amount of PCB tokens.
+
+Other smart contracts accepting PCB tokens for other functions as swap, exchange, stacking, DEX, DeFi, or all others, will consume different amounts of energy, bandwidth and TRX. The users, systems, companies or platforms developing, deploying and executing other smart contracts are the only responsible of their smart contract execution fees and it could be very different fees than our smart contract direct execution.
+
+5.- The tokenized hardware
+
+The “451PCB ProtoShield Board” v1,v2 and v2.1 is a PCB made in FR-4, copper and HASL lead free finished, with solder mask and silk screen in both sides of the board. All the PCB physical boards are Pb free and ROSH compliant.
+
+The board is only composed by the Printed Circuit Board, and the board materials value is increasing every year, and the manufacturing costs is increasing too, so the value of the boards is stable but increasing every year.
+
+The physical PCB “451PCB Protoshield Board” is a very good reference value for the PCB token. More with the basic shipping costs of the boards included in the PCB token value which is stable but is increasing every year too.
+
+All the “451PCB ProtoShield Board” source hardware code files are open source in a Github repository:
+https://github.com/451PCBCOM/Arduino-Protoshield-Board
+	
+You can help us developing more documents related to the project and you will be rewarded with PCB tokens.
+
+A decentralized network for local distribution of physical boards between our community members should be created in the future to decrease the expenses of a global distribution shipping costs and creating more benefits to the community of local makers, distributors and users who will receive it faster. But we are doing  it directly by us now.
+
+6.- About us
+
+451PCB.COM is the web page of a legalized non-profit association based in Spain to promote open source hardware, art and technology. 451PCB is self financed by our members donations and only when it will be necessary, with the open source hardware distribution to our members as an typical associated consumers group. We don’t give financial or investment advice.
+
+We make and tokenized an open source hardware desing, deploying and controlling smart contracts on TRON’s blockchain to self-organizing our non-profit association and to promote open source hardware. We developed a voting system with PCB tokens to do it and it will be released and utilized when necessary.
+
+Our community of members, users and supporters is conformed by the PCB token holders. The ranking of PCB token holders can be checked following the token info link indicated at the 4th section “PCB token”.
+
+We can’t take actions against people who test our code, including when they are searching for code vulnerabilities, but our network providers will take their own actions. We can’t give to them info or data related, because we don’t log or store it.
+
+451PCB.COM doesn’t store the users private data. So, all user private data sent to us will be destroyed as soon as possible to preserve the user privacy rights. When we have access to data stored in other platforms it will be managed by their own rights and rules, but we will preserve it private for ever and it never will be shared, according to the applicable laws.
+
+If you have any question about the 451PCBcom (PCB) TRC-20 token, don’t hesitate to contact with us sending an e-mail to:
+
+info@451pcb.com
+
+For more info visit www.451pcb.com and join us.
