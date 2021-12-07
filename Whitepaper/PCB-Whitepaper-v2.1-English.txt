@@ -74,7 +74,7 @@ We will continue rewarding our community of supporters with free PCB tokens, but
     • Release the open source hardware code of the “451PCB Protoshield board v2.1”.
     • We will continue distributing more PCB tokens and physical open source hardware boards to our support community who hold PCB tokens joining us.
       
-      2022
+2022
     • Try to apply all serious proposals from the community:
         ◦ Increase PCB token rewards to the community.
         ◦ Projects development and updates.
