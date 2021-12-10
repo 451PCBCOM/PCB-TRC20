@@ -16,7 +16,7 @@ INDEX:
 
 451PCBcom (PCB) is a TRC-20 token created on the TRON blockchain by our non-profit association to promote, develop, make, reward, share and exchange open source hardware.
 
-The PCB token is not an easy speculative token, it has a lot of utility functions in the real world for the members of our open source hardware community of supporters.
+The PCB token is not an simple speculative token, it has a lot of utility functions in the real world for the members of our open source hardware community of supporters.
 
 TRC-20 is the basic code standard for a token in the TRON blockchain to implement some minimal token functions using a smart contract. So PCB token is a coupon, similar to a privately issued digital currency, which is the unit of value that the association creates to self-govern, and empower open source hardware users to interact with us, facilitating the open source hardware exchange, share and distribution, with rewards, utility and benefits to all the token holders.
 
