@@ -4,7 +4,7 @@ Solidity code of the TRC20 token 451PCBCOM (PCB).
 
 451PCBcom v2:
 - Clean and update code style.
-- Withdraw TRC10 token fromcontrac.
+- Withdraw TRC10 token from contract.
 - Delete unused funtions.
 - Mintable total supply.
-- Stop 0 transfers.
+- Stop 0 token transfers.
