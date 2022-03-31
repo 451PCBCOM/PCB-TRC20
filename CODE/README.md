@@ -1,4 +1,4 @@
-TRC20 token 451PCBCOM (PCB) solidity code.
+TRC20 token 451PCBcom (PCB) solidity code.
 
 451PCBcom.sol is the last updated PCB token v2.
 
