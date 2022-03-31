@@ -1,4 +1,4 @@
-Solidity code of the TRC20 token 451PCBCOM (PCB).
+TRC20 token 451PCBCOM (PCB) solidity code.
 
 451PCBcom.sol is the last updated PCB token v2.
 
@@ -8,3 +8,5 @@ Solidity code of the TRC20 token 451PCBCOM (PCB).
 - Delete unused funtions.
 - Mintable total supply.
 - Stop 0 token transfers.
+
+PCB.sol is the old token code.
