@@ -1,1 +1,1 @@
-451PCBCOM (PCB) TRC-20 token WhitePapers
+451PCBCOM (PCB) token WhitePapers
